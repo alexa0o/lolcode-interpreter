@@ -1,0 +1,67 @@
+BTW I love LOLcode
+HAI 3.1
+
+BTW Displaying text:
+VISIBLE "HELLO WORLD"
+
+BTW Declaring variables:
+I HAS A MESSAGE ITZ "CATZ ARE GOOD"
+VISIBLE MESSAGE
+
+BTW Linebreaks:
+VISIBLE "FIRST LINE :) SECOND LINE"
+
+BTW Tabs:
+VISIBLE ":>SPACES ARE SUPERIOR"
+
+BTW Bell (goes beep):
+VISIBLE "NXT CUSTOMER PLS :o"
+
+BTW Literal double quote:
+VISIBLE "HE SAID :"I LIKE CAKE:""
+
+BTW Literal colon:
+VISIBLE "WHERE I LIVE:: CYBERSPACE"
+
+BOTH OF 1 AN 1           BTW and: WIN if x=WIN, y=WIN
+EITHER OF 0 AN 1        BTW or: FAIL if x=FAIL, y=FAIL
+NOT 0                     BTW unary negation: WIN if x=FAIL
+
+BTW hehe
+
+SUM OF 21 AN 33         BTW 21 + 33
+DIFF OF 90 AN 10        BTW 90 - 10
+PRODUKT OF 12 AN 13     BTW 12 * 13
+QUOSHUNT OF 32 AN 43    BTW 32 / 43
+MOD OF 43 AN 64         BTW 43 modulo 64
+BIGGR OF 23 AN 53       BTW max(23, 53)
+SMALLR OF 53 AN 45      BTW min(53, 45)
+
+I HAS A STRING  ITZ "DOGZ ARE GOOOD" BTW type is YARN
+I HAS A INTEGER ITZ 42               BTW type is NUMBR
+I HAS A FLOAT   ITZ 3.1415           BTW type is NUMBAR
+I HAS A BOOLEAN ITZ 1                BTW type is TROOF
+I HAS A UNTYPED                      BTW type is NOOB
+
+BOTH OF 1 AN 0, O RLY?
+    YA RLY
+        VISIBLE 101
+    NO WAI
+        VISIBLE 228
+    OIC
+
+BOTH OF 231 AN "", O RLY?
+    YA RLY
+        VISIBLE 102
+    NO WAI
+        VISIBLE "WEE-WEE"
+    OIC
+
+VISIBLE SUM OF 21 AN 33
+
+I HAS A TEMPERATURE ITZ 10
+IM IN YR LOOP UPPIN YR ITERATOR WILE DIFF OF TEMPERATURE AN ITERATOR
+    VISIBLE ITERATOR
+IM OUTTA YR LOOP
+
+KTHXBYE
