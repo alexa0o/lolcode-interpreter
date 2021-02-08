@@ -163,7 +163,7 @@ Value Value::execute(const Value& v) const {
         else if (v.f)
             return Value(T::calc((float) *i, *v.f));
         else
-            return Value(T::calc(*i, toInt(v.s))); 
+            return Value(T::calc(*i, toInt(v.s)));
     } else if (f) {
         if (v.f)
             return Value(T::calc(*f, *v.f));
